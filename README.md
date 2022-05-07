@@ -25,7 +25,7 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 * Balancing and quality is not priority for this one
 * I don't care about bugs unless they're critical
 * All players need to have this modpack installed to play with each other
-* *Also contains all mods from LightningRod-FULL*
+* *Also contains all mods from LightningRod-GOLD*
 
 ## Mods
 
@@ -38,18 +38,19 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [XoXFaby-BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/) | [2.5.12](https://thunderstore.io/package/XoXFaby/BetterUI/2.5.12) | [2.5.12](https://thunderstore.io/package/XoXFaby/BetterUI/2.5.12) | [2.5.12](https://thunderstore.io/package/XoXFaby/BetterUI/2.5.12) |
 | [RiskofThunder-HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/) | [1.2.3](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/1.2.3) | [1.2.3](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/1.2.3) | [1.2.3](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/1.2.3) |
 | [JohnEdwa-RTAutoSprintEx](https://thunderstore.io/package/JohnEdwa/RTAutoSprintEx/) | [2.1.2](https://thunderstore.io/package/JohnEdwa/RTAutoSprintEx/2.1.2) | [2.1.2](https://thunderstore.io/package/JohnEdwa/RTAutoSprintEx/2.1.2) | [2.1.2](https://thunderstore.io/package/JohnEdwa/RTAutoSprintEx/2.1.2) |
-| [XoXFaby-BetterAPI](https://thunderstore.io/package/XoXFaby/BetterAPI/) | [4.0.2](https://thunderstore.io/package/XoXFaby/BetterAPI/4.0.2) | [4.0.2](https://thunderstore.io/package/XoXFaby/BetterAPI/4.0.2) |
+| [XoXFaby-BetterAPI](https://thunderstore.io/package/XoXFaby/BetterAPI/) | [4.0.3](https://thunderstore.io/package/XoXFaby/BetterAPI/4.0.3) | [4.0.3](https://thunderstore.io/package/XoXFaby/BetterAPI/4.0.3) |
 | [Evaisa-MoreShrines](https://thunderstore.io/package/Evaisa/MoreShrines/) | [1.5.1](https://thunderstore.io/package/Evaisa/MoreShrines/1.5.1) | [1.5.1](https://thunderstore.io/package/Evaisa/MoreShrines/1.5.1) |
 | [Moffein-Acrid_Blight_Stack_Buff](https://thunderstore.io/package/Moffein/Acrid_Blight_Stack_Buff/) | [1.0.2](https://thunderstore.io/package/Moffein/Acrid_Blight_Stack_Buff/1.0.2) | [1.0.2](https://thunderstore.io/package/Moffein/Acrid_Blight_Stack_Buff/1.0.2) |
 | [TheTimesweeper-AcridHitboxBuff](https://thunderstore.io/package/TheTimesweeper/AcridHitboxBuff/) | [1.1.1](https://thunderstore.io/package/TheTimesweeper/AcridHitboxBuff/1.1.1) | [1.1.1](https://thunderstore.io/package/TheTimesweeper/AcridHitboxBuff/1.1.1) |
 | [XoXFaby-BetterGameplay](https://thunderstore.io/package/XoXFaby/BetterGameplay/) | [1.1.2](https://thunderstore.io/package/XoXFaby/BetterGameplay/1.1.2) | [1.1.2](https://thunderstore.io/package/XoXFaby/BetterGameplay/1.1.2) |
+| [XoXFaby-MoreItems](https://thunderstore.io/package/XoXFaby/MoreItems/) | [2.2.2](https://thunderstore.io/package/XoXFaby/MoreItems/2.2.2) |
 | [Moffein-Raise_Monster_Level_Cap](https://thunderstore.io/package/Moffein/Raise_Monster_Level_Cap/) | [1.0.8](https://thunderstore.io/package/Moffein/Raise_Monster_Level_Cap/1.0.8) | [1.0.8](https://thunderstore.io/package/Moffein/Raise_Monster_Level_Cap/1.0.8) |
 | [Moffein-Lunar_Wisp_Falloff](https://thunderstore.io/package/Moffein/Lunar_Wisp_Falloff/) | [1.1.1](https://thunderstore.io/package/Moffein/Lunar_Wisp_Falloff/1.1.1) | [1.1.1](https://thunderstore.io/package/Moffein/Lunar_Wisp_Falloff/1.1.1) |
 | [William758-DiluvianArtifact](https://thunderstore.io/package/William758/DiluvianArtifact/) | [1.1.1](https://thunderstore.io/package/William758/DiluvianArtifact/1.1.1) | [1.1.1](https://thunderstore.io/package/William758/DiluvianArtifact/1.1.1) |
 | [Moffein-AI_Blacklist](https://thunderstore.io/package/Moffein/AI_Blacklist/) | [1.4.5](https://thunderstore.io/package/Moffein/AI_Blacklist/1.4.5) | [1.4.5](https://thunderstore.io/package/Moffein/AI_Blacklist/1.4.5) |
-| [Bubbet-BubbetsItems](https://thunderstore.io/package/Bubbet/BubbetsItems/) | [1.6.7](https://thunderstore.io/package/Bubbet/BubbetsItems/1.6.7) |
+| [Bubbet-BubbetsItems](https://thunderstore.io/package/Bubbet/BubbetsItems/) | [1.7.0](https://thunderstore.io/package/Bubbet/BubbetsItems/1.7.0) |
 | [Bubbet-SkipIntro](https://thunderstore.io/package/Bubbet/SkipIntro/) | [1.0.0](https://thunderstore.io/package/Bubbet/SkipIntro/1.0.0) | [1.0.0](https://thunderstore.io/package/Bubbet/SkipIntro/1.0.0) | [1.0.0](https://thunderstore.io/package/Bubbet/SkipIntro/1.0.0) |
-| [Bubbet-WhatAmILookingAt](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/) | [1.5.0](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/1.5.0) | [1.5.0](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/1.5.0) |
+| [Bubbet-WhatAmILookingAt](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/) | [1.6.1](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/1.6.1) | [1.6.1](https://thunderstore.io/package/Bubbet/WhatAmILookingAt/1.6.1) |
 | [Bubbet-DamageHistory](https://thunderstore.io/package/Bubbet/DamageHistory/) | [1.2.1](https://thunderstore.io/package/Bubbet/DamageHistory/1.2.1) | [1.2.1](https://thunderstore.io/package/Bubbet/DamageHistory/1.2.1) | [1.2.1](https://thunderstore.io/package/Bubbet/DamageHistory/1.2.1) |
 | [tristanmcpherson-R2API](https://thunderstore.io/package/tristanmcpherson/R2API/) | [4.3.21](https://thunderstore.io/package/tristanmcpherson/R2API/4.3.21) | [4.3.21](https://thunderstore.io/package/tristanmcpherson/R2API/4.3.21) | [4.3.21](https://thunderstore.io/package/tristanmcpherson/R2API/4.3.21) |
 | [IHarbHD-DebugToolkit](https://thunderstore.io/package/IHarbHD/DebugToolkit/) | [3.7.1](https://thunderstore.io/package/IHarbHD/DebugToolkit/3.7.1) | [3.7.1](https://thunderstore.io/package/IHarbHD/DebugToolkit/3.7.1) | [3.7.1](https://thunderstore.io/package/IHarbHD/DebugToolkit/3.7.1) |
@@ -57,7 +58,7 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [Moffein-Fix_Playercount](https://thunderstore.io/package/Moffein/Fix_Playercount/) | [1.2.2](https://thunderstore.io/package/Moffein/Fix_Playercount/1.2.2) | [1.2.2](https://thunderstore.io/package/Moffein/Fix_Playercount/1.2.2) | [1.2.2](https://thunderstore.io/package/Moffein/Fix_Playercount/1.2.2) |
 | [DekuDesu-MiniMapMod](https://thunderstore.io/package/DekuDesu/MiniMapMod/) | [3.3.2](https://thunderstore.io/package/DekuDesu/MiniMapMod/3.3.2) | [3.3.2](https://thunderstore.io/package/DekuDesu/MiniMapMod/3.3.2) | [3.3.2](https://thunderstore.io/package/DekuDesu/MiniMapMod/3.3.2) |
 | [Faustvii-QoLChests](https://thunderstore.io/package/Faustvii/QoLChests/) | [1.1.8](https://thunderstore.io/package/Faustvii/QoLChests/1.1.8) | [1.1.8](https://thunderstore.io/package/Faustvii/QoLChests/1.1.8) | [1.1.8](https://thunderstore.io/package/Faustvii/QoLChests/1.1.8) |
-| [ImKyle4815-ArtifactEnsemble](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/) | [2.1.2](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/2.1.2) | [2.1.2](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/2.1.2) |
+| [ImKyle4815-ArtifactEnsemble](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/) | [2.2.2](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/2.2.2) | [2.2.2](https://thunderstore.io/package/ImKyle4815/ArtifactEnsemble/2.2.2) |
 | [12GaugeAwayFromFace-Artificer_Academic_Skin](https://thunderstore.io/package/12GaugeAwayFromFace/Artificer_Academic_Skin/) | [1.0.4](https://thunderstore.io/package/12GaugeAwayFromFace/Artificer_Academic_Skin/1.0.4) | [1.0.4](https://thunderstore.io/package/12GaugeAwayFromFace/Artificer_Academic_Skin/1.0.4) |
 | [MagnusMagnuson-BiggerBazaar](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/) | [1.13.6](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/1.13.6) | [1.13.6](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/1.13.6) |
 | [Dragonyck-Bomber](https://thunderstore.io/package/Dragonyck/Bomber/) | [1.2.1](https://thunderstore.io/package/Dragonyck/Bomber/1.2.1) |
@@ -72,15 +73,15 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [Rico-GeneticArtifact](https://thunderstore.io/package/Rico/GeneticArtifact/) | [4.4.0](https://thunderstore.io/package/Rico/GeneticArtifact/4.4.0) | [4.4.0](https://thunderstore.io/package/Rico/GeneticArtifact/4.4.0) |
 | [EnforcerGang-HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/) | [0.2.6](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/0.2.6) | [0.2.6](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/0.2.6) |
 | [ThinkInvis-Hypercrit](https://thunderstore.io/package/ThinkInvis/Hypercrit/) | [2.0.3](https://thunderstore.io/package/ThinkInvis/Hypercrit/2.0.3) | [2.0.3](https://thunderstore.io/package/ThinkInvis/Hypercrit/2.0.3) |
-| [Shasocais-Melting_Pot](https://thunderstore.io/package/Shasocais/Melting_Pot/) | [0.0.66](https://thunderstore.io/package/Shasocais/Melting_Pot/0.0.66) |
+| [Shasocais-Melting_Pot](https://thunderstore.io/package/Shasocais/Melting_Pot/) | [0.0.75](https://thunderstore.io/package/Shasocais/Melting_Pot/0.0.75) |
 | [Ya_boi_PHAT-MercenaryTweaks](https://thunderstore.io/package/Ya_boi_PHAT/MercenaryTweaks/) | [1.2.5](https://thunderstore.io/package/Ya_boi_PHAT/MercenaryTweaks/1.2.5) | [1.2.5](https://thunderstore.io/package/Ya_boi_PHAT/MercenaryTweaks/1.2.5) |
 | [EnforcerGang-MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/) | [1.6.9](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/1.6.9) | [1.6.9](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/1.6.9) |
-| [TheMysticSword-MysticsRisky2Utils](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/) | [2.0.3](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/2.0.3) | [2.0.3](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/2.0.3) |
-| [TheMysticSword-MysticsItems](https://thunderstore.io/package/TheMysticSword/MysticsItems/) | [2.0.12](https://thunderstore.io/package/TheMysticSword/MysticsItems/2.0.12) | [2.0.12](https://thunderstore.io/package/TheMysticSword/MysticsItems/2.0.12) |
+| [TheMysticSword-MysticsRisky2Utils](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/) | [2.0.4](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/2.0.4) | [2.0.4](https://thunderstore.io/package/TheMysticSword/MysticsRisky2Utils/2.0.4) |
+| [TheMysticSword-MysticsItems](https://thunderstore.io/package/TheMysticSword/MysticsItems/) | [2.0.13](https://thunderstore.io/package/TheMysticSword/MysticsItems/2.0.13) | [2.0.13](https://thunderstore.io/package/TheMysticSword/MysticsItems/2.0.13) |
 | [Paladin_Alliance-PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/) | [1.5.10](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/1.5.10) | [1.5.10](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/1.5.10) |
 | [RedMushie-RedsSacrifice](https://thunderstore.io/package/RedMushie/RedsSacrifice/) | [1.1.1](https://thunderstore.io/package/RedMushie/RedsSacrifice/1.1.1) | [1.1.1](https://thunderstore.io/package/RedMushie/RedsSacrifice/1.1.1) |
 | [Heyimnoob-SkillsFromtheDeepEnd](https://thunderstore.io/package/Heyimnoob/SkillsFromtheDeepEnd/) | [1.9.0](https://thunderstore.io/package/Heyimnoob/SkillsFromtheDeepEnd/1.9.0) |
-| [EnforcerGang-SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/) | [1.0.12](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.12) | [1.0.12](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.12) |
+| [EnforcerGang-SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/) | [1.0.13](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.13) | [1.0.13](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.13) |
 | [TheTimesweeper-SurvivorSortOrder](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/) | [0.1.2](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/0.1.2) | [0.1.2](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/0.1.2) |
 | [kking117-WarBannerBuff](https://thunderstore.io/package/kking117/WarBannerBuff/) | [5.0.2](https://thunderstore.io/package/kking117/WarBannerBuff/5.0.2) | [5.0.2](https://thunderstore.io/package/kking117/WarBannerBuff/5.0.2) |
 | [William758-ZetArtifacts](https://thunderstore.io/package/William758/ZetArtifacts/) | [1.3.4](https://thunderstore.io/package/William758/ZetArtifacts/1.3.4) | [1.3.4](https://thunderstore.io/package/William758/ZetArtifacts/1.3.4) |
@@ -100,10 +101,10 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [kinggrinyov-Trunks](https://thunderstore.io/package/kinggrinyov/Trunks/) | [1.2.0](https://thunderstore.io/package/kinggrinyov/Trunks/1.2.0) |
 | [Mico27-TTGL_Mod](https://thunderstore.io/package/Mico27/TTGL_Mod/) | [0.4.4](https://thunderstore.io/package/Mico27/TTGL_Mod/0.4.4) |
 | [kinggrinyov-Vegeta](https://thunderstore.io/package/kinggrinyov/Vegeta/) | [1.4.0](https://thunderstore.io/package/kinggrinyov/Vegeta/1.4.0) |
-| [ThinkInvis-TILER2](https://thunderstore.io/package/ThinkInvis/TILER2/) | [7.0.1](https://thunderstore.io/package/ThinkInvis/TILER2/7.0.1) | [7.0.1](https://thunderstore.io/package/ThinkInvis/TILER2/7.0.1) |
-| [ThinkInvis-ClassicItems](https://thunderstore.io/package/ThinkInvis/ClassicItems/) | [7.0.0](https://thunderstore.io/package/ThinkInvis/ClassicItems/7.0.0) |
-| [ThinkInvis-Admiral](https://thunderstore.io/package/ThinkInvis/Admiral/) | [2.5.0](https://thunderstore.io/package/ThinkInvis/Admiral/2.5.0) |
-| [ThinkInvis-TinkersSatchel](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/) | [2.3.0](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/2.3.0) | [2.3.0](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/2.3.0) |
+| [ThinkInvis-TILER2](https://thunderstore.io/package/ThinkInvis/TILER2/) | [7.1.0](https://thunderstore.io/package/ThinkInvis/TILER2/7.1.0) | [7.1.0](https://thunderstore.io/package/ThinkInvis/TILER2/7.1.0) |
+| [ThinkInvis-ClassicItems](https://thunderstore.io/package/ThinkInvis/ClassicItems/) | [7.1.0](https://thunderstore.io/package/ThinkInvis/ClassicItems/7.1.0) |
+| [ThinkInvis-Admiral](https://thunderstore.io/package/ThinkInvis/Admiral/) | [2.5.1](https://thunderstore.io/package/ThinkInvis/Admiral/2.5.1) |
+| [ThinkInvis-TinkersSatchel](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/) | [2.3.3](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/2.3.3) | [2.3.3](https://thunderstore.io/package/ThinkInvis/TinkersSatchel/2.3.3) |
 | [Recheesers-AmmoLocker](https://thunderstore.io/package/Recheesers/AmmoLocker/) | [1.0.3](https://thunderstore.io/package/Recheesers/AmmoLocker/1.0.3) | [1.0.3](https://thunderstore.io/package/Recheesers/AmmoLocker/1.0.3) |
 | [wildbook-TooManyFriends](https://thunderstore.io/package/wildbook/TooManyFriends/) | [1.2.1](https://thunderstore.io/package/wildbook/TooManyFriends/1.2.1) | [1.2.1](https://thunderstore.io/package/wildbook/TooManyFriends/1.2.1) | [1.2.1](https://thunderstore.io/package/wildbook/TooManyFriends/1.2.1) |
 | [12GaugeAwayFromFace-Commando_Elite_Trooper_Skin](https://thunderstore.io/package/12GaugeAwayFromFace/Commando_Elite_Trooper_Skin/) | [1.2.2](https://thunderstore.io/package/12GaugeAwayFromFace/Commando_Elite_Trooper_Skin/1.2.2) | [1.2.2](https://thunderstore.io/package/12GaugeAwayFromFace/Commando_Elite_Trooper_Skin/1.2.2) |
@@ -120,13 +121,14 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [Pipman3000-TeleporterShowRedux](https://thunderstore.io/package/Pipman3000/TeleporterShowRedux/) | [1.0.4](https://thunderstore.io/package/Pipman3000/TeleporterShowRedux/1.0.4) | [1.0.4](https://thunderstore.io/package/Pipman3000/TeleporterShowRedux/1.0.4) |
 | [LexLamb-MechArtificer](https://thunderstore.io/package/LexLamb/MechArtificer/) | [0.0.1](https://thunderstore.io/package/LexLamb/MechArtificer/0.0.1) | [0.0.1](https://thunderstore.io/package/LexLamb/MechArtificer/0.0.1) |
 | [KingEnderBrine-ScrollableLobbyUI](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/) | [1.7.5](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/1.7.5) | [1.7.5](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/1.7.5) |
+| [KosmosisDire-TeammateRevival](https://thunderstore.io/package/KosmosisDire/TeammateRevival/) | [4.1.3](https://thunderstore.io/package/KosmosisDire/TeammateRevival/4.1.3) | [4.1.3](https://thunderstore.io/package/KosmosisDire/TeammateRevival/4.1.3) |
 | [Moffein-Bandit_Tweaks](https://thunderstore.io/package/Moffein/Bandit_Tweaks/) | [1.7.1](https://thunderstore.io/package/Moffein/Bandit_Tweaks/1.7.1) | [1.7.1](https://thunderstore.io/package/Moffein/Bandit_Tweaks/1.7.1) |
 | [MagnusMagnuson-ScannerPlusOne](https://thunderstore.io/package/MagnusMagnuson/ScannerPlusOne/) | [2.7.0](https://thunderstore.io/package/MagnusMagnuson/ScannerPlusOne/2.7.0) | [2.7.0](https://thunderstore.io/package/MagnusMagnuson/ScannerPlusOne/2.7.0) |
-| [kking117-FlatItemBuff](https://thunderstore.io/package/kking117/FlatItemBuff/) | [1.10.2](https://thunderstore.io/package/kking117/FlatItemBuff/1.10.2) | [1.10.2](https://thunderstore.io/package/kking117/FlatItemBuff/1.10.2) |
+| [kking117-FlatItemBuff](https://thunderstore.io/package/kking117/FlatItemBuff/) | [1.11.0](https://thunderstore.io/package/kking117/FlatItemBuff/1.11.0) | [1.11.0](https://thunderstore.io/package/kking117/FlatItemBuff/1.11.0) |
 | [HIFU-HuntressAutoaimFix](https://thunderstore.io/package/HIFU/HuntressAutoaimFix/) | [1.0.8](https://thunderstore.io/package/HIFU/HuntressAutoaimFix/1.0.8) | [1.0.8](https://thunderstore.io/package/HIFU/HuntressAutoaimFix/1.0.8) |
 | [HIFU-HIFUHuntressTweaks](https://thunderstore.io/package/HIFU/HIFUHuntressTweaks/) | [4.2.1](https://thunderstore.io/package/HIFU/HIFUHuntressTweaks/4.2.1) | [4.2.1](https://thunderstore.io/package/HIFU/HIFUHuntressTweaks/4.2.1) |
 | [LuaFubuki-Void_Reaver](https://thunderstore.io/package/LuaFubuki/Void_Reaver/) | [0.6.8](https://thunderstore.io/package/LuaFubuki/Void_Reaver/0.6.8) |
-| [TeaL-DekuMod](https://thunderstore.io/package/TeaL/DekuMod/) | [3.1.5](https://thunderstore.io/package/TeaL/DekuMod/3.1.5) |
+| [TeaL-DekuMod](https://thunderstore.io/package/TeaL/DekuMod/) | [3.1.6](https://thunderstore.io/package/TeaL/DekuMod/3.1.6) |
 | [Lemner-TF2SoldierMod](https://thunderstore.io/package/Lemner/TF2SoldierMod/) | [1.3.0](https://thunderstore.io/package/Lemner/TF2SoldierMod/1.3.0) |
 | [TemplarBoyz-PlayableTemplar](https://thunderstore.io/package/TemplarBoyz/PlayableTemplar/) | [1.1.1](https://thunderstore.io/package/TemplarBoyz/PlayableTemplar/1.1.1) | [1.1.1](https://thunderstore.io/package/TemplarBoyz/PlayableTemplar/1.1.1) |
 | [Maci-ReadyConfig](https://thunderstore.io/package/Maci/ReadyConfig/) | [1.0.0](https://thunderstore.io/package/Maci/ReadyConfig/1.0.0) | [1.0.0](https://thunderstore.io/package/Maci/ReadyConfig/1.0.0) | [1.0.0](https://thunderstore.io/package/Maci/ReadyConfig/1.0.0) |
@@ -159,11 +161,11 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [duckduckgreyduck-LazyBastardEngineer](https://thunderstore.io/package/duckduckgreyduck/LazyBastardEngineer/) | [2.1.0](https://thunderstore.io/package/duckduckgreyduck/LazyBastardEngineer/2.1.0) | [2.1.0](https://thunderstore.io/package/duckduckgreyduck/LazyBastardEngineer/2.1.0) |
 | [Lunzir2-StageBuilderTool](https://thunderstore.io/package/Lunzir2/StageBuilderTool/) | [1.0.1](https://thunderstore.io/package/Lunzir2/StageBuilderTool/1.0.1) | [1.0.1](https://thunderstore.io/package/Lunzir2/StageBuilderTool/1.0.1) |
 | [Chen-Qb](https://thunderstore.io/package/Chen/Qb/) | [2.1.2](https://thunderstore.io/package/Chen/Qb/2.1.2) | [2.1.2](https://thunderstore.io/package/Chen/Qb/2.1.2) |
-| [Moffein-Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/) | [1.4.11](https://thunderstore.io/package/Moffein/Risky_Artifacts/1.4.11) | [1.4.11](https://thunderstore.io/package/Moffein/Risky_Artifacts/1.4.11) |
-| [1nsider-1nsiderItems](https://thunderstore.io/package/1nsider/1nsiderItems/) | [1.1.11](https://thunderstore.io/package/1nsider/1nsiderItems/1.1.11) | [1.1.11](https://thunderstore.io/package/1nsider/1nsiderItems/1.1.11) |
+| [Moffein-Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/) | [1.5.1](https://thunderstore.io/package/Moffein/Risky_Artifacts/1.5.1) | [1.5.1](https://thunderstore.io/package/Moffein/Risky_Artifacts/1.5.1) |
+| [1nsider-1nsiderItems](https://thunderstore.io/package/1nsider/1nsiderItems/) | [1.1.13](https://thunderstore.io/package/1nsider/1nsiderItems/1.1.13) | [1.1.13](https://thunderstore.io/package/1nsider/1nsiderItems/1.1.13) |
 | [Chen-ChensClassicItems](https://thunderstore.io/package/Chen/ChensClassicItems/) | [3.1.3](https://thunderstore.io/package/Chen/ChensClassicItems/3.1.3) |
 | [wildbook-MiniRpcLib](https://thunderstore.io/package/wildbook/MiniRpcLib/) | [0.0.3](https://thunderstore.io/package/wildbook/MiniRpcLib/0.0.3) |
-| [PopcornFactory-Wisp_WarframeSurvivorMod](https://thunderstore.io/package/PopcornFactory/Wisp_WarframeSurvivorMod/) | [1.0.8](https://thunderstore.io/package/PopcornFactory/Wisp_WarframeSurvivorMod/1.0.8) |
+| [PopcornFactory-Wisp_WarframeSurvivorMod](https://thunderstore.io/package/PopcornFactory/Wisp_WarframeSurvivorMod/) | [2.0.2](https://thunderstore.io/package/PopcornFactory/Wisp_WarframeSurvivorMod/2.0.2) |
 | [Dragonyck-Synergies](https://thunderstore.io/package/Dragonyck/Synergies/) | [2.0.3](https://thunderstore.io/package/Dragonyck/Synergies/2.0.3) |
 | [Team_Pepega-AurelionSol](https://thunderstore.io/package/Team_Pepega/AurelionSol/) | [1.1.0](https://thunderstore.io/package/Team_Pepega/AurelionSol/1.1.0) |
 | [HIFU-HIFUCommandoTweaks](https://thunderstore.io/package/HIFU/HIFUCommandoTweaks/) | [1.0.1](https://thunderstore.io/package/HIFU/HIFUCommandoTweaks/1.0.1) | [1.0.1](https://thunderstore.io/package/HIFU/HIFUCommandoTweaks/1.0.1) |
@@ -179,7 +181,7 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [zombieseatflesh7-Artifact_of_Potential](https://thunderstore.io/package/zombieseatflesh7/Artifact_of_Potential/) | [1.2.1](https://thunderstore.io/package/zombieseatflesh7/Artifact_of_Potential/1.2.1) | [1.2.1](https://thunderstore.io/package/zombieseatflesh7/Artifact_of_Potential/1.2.1) |
 | [Lunzir2-BossRewardForEveryone](https://thunderstore.io/package/Lunzir2/BossRewardForEveryone/) | [1.0.4](https://thunderstore.io/package/Lunzir2/BossRewardForEveryone/1.0.4) | [1.0.4](https://thunderstore.io/package/Lunzir2/BossRewardForEveryone/1.0.4) |
 | [TheTimesweeper-HenryMod](https://thunderstore.io/package/TheTimesweeper/HenryMod/) | [2.1.1](https://thunderstore.io/package/TheTimesweeper/HenryMod/2.1.1) | [2.1.1](https://thunderstore.io/package/TheTimesweeper/HenryMod/2.1.1) |
-| [PopcornFactory-DittoMod](https://thunderstore.io/package/PopcornFactory/DittoMod/) | [1.1.8](https://thunderstore.io/package/PopcornFactory/DittoMod/1.1.8) |
+| [PopcornFactory-DittoMod](https://thunderstore.io/package/PopcornFactory/DittoMod/) | [1.1.10](https://thunderstore.io/package/PopcornFactory/DittoMod/1.1.10) |
 | [nayDPz-Yasuo](https://thunderstore.io/package/nayDPz/Yasuo/) | [1.0.0](https://thunderstore.io/package/nayDPz/Yasuo/1.0.0) |
 | [Vulf-ScoutTF2](https://thunderstore.io/package/Vulf/ScoutTF2/) | [0.2.0](https://thunderstore.io/package/Vulf/ScoutTF2/0.2.0) |
 | [Bubbet-FixTeleportMomentum](https://thunderstore.io/package/Bubbet/FixTeleportMomentum/) | [1.0.0](https://thunderstore.io/package/Bubbet/FixTeleportMomentum/1.0.0) | [1.0.0](https://thunderstore.io/package/Bubbet/FixTeleportMomentum/1.0.0) | [1.0.0](https://thunderstore.io/package/Bubbet/FixTeleportMomentum/1.0.0) |
@@ -201,15 +203,15 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [SeizaKokoro-KokosItemBox](https://thunderstore.io/package/SeizaKokoro/KokosItemBox/) | [1.0.6](https://thunderstore.io/package/SeizaKokoro/KokosItemBox/1.0.6) |
 | [BLKNeko-MegamanXCommandMissionMod](https://thunderstore.io/package/BLKNeko/MegamanXCommandMissionMod/) | [1.0.0](https://thunderstore.io/package/BLKNeko/MegamanXCommandMissionMod/1.0.0) |
 | [PlasmaCore3-MELT](https://thunderstore.io/package/PlasmaCore3/MELT/) | [1.2.7](https://thunderstore.io/package/PlasmaCore3/MELT/1.2.7) |
-| [Bubbet-NetworkedTimedBuffs](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/) | [1.0.0](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/1.0.0) | [1.0.0](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/1.0.0) |
-| [hex3-Hex3Mod](https://thunderstore.io/package/hex3/Hex3Mod/) | [0.1.5](https://thunderstore.io/package/hex3/Hex3Mod/0.1.5) | [0.1.5](https://thunderstore.io/package/hex3/Hex3Mod/0.1.5) |
+| [Bubbet-NetworkedTimedBuffs](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/) | [1.0.1](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/1.0.1) | [1.0.1](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/1.0.1) |
+| [hex3-Hex3Mod](https://thunderstore.io/package/hex3/Hex3Mod/) | [0.2.2](https://thunderstore.io/package/hex3/Hex3Mod/0.2.2) | [0.2.2](https://thunderstore.io/package/hex3/Hex3Mod/0.2.2) |
 | [Skell-GoldenCoastPlus](https://thunderstore.io/package/Skell/GoldenCoastPlus/) | [0.6.3](https://thunderstore.io/package/Skell/GoldenCoastPlus/0.6.3) | [0.6.3](https://thunderstore.io/package/Skell/GoldenCoastPlus/0.6.3) |
 | [DarthFalcon-Artifact_of_the_King_Reborn](https://thunderstore.io/package/DarthFalcon/Artifact_of_the_King_Reborn/) | [1.1.2](https://thunderstore.io/package/DarthFalcon/Artifact_of_the_King_Reborn/1.1.2) | [1.1.2](https://thunderstore.io/package/DarthFalcon/Artifact_of_the_King_Reborn/1.1.2) |
 | [TailLover-MechaDragonRailgunner](https://thunderstore.io/package/TailLover/MechaDragonRailgunner/) | [0.7.0](https://thunderstore.io/package/TailLover/MechaDragonRailgunner/0.7.0) | [0.7.0](https://thunderstore.io/package/TailLover/MechaDragonRailgunner/0.7.0) |
 | [Phreel-LaIncubadabraRevived](https://thunderstore.io/package/Phreel/LaIncubadabraRevived/) | [1.1.0](https://thunderstore.io/package/Phreel/LaIncubadabraRevived/1.1.0) | [1.1.0](https://thunderstore.io/package/Phreel/LaIncubadabraRevived/1.1.0) |
 | [Team_Pepega-BondrewdArtificerSkin](https://thunderstore.io/package/Team_Pepega/BondrewdArtificerSkin/) | [1.2.0](https://thunderstore.io/package/Team_Pepega/BondrewdArtificerSkin/1.2.0) | [1.2.0](https://thunderstore.io/package/Team_Pepega/BondrewdArtificerSkin/1.2.0) |
 | [DestroyedClone-HudNumbahs](https://thunderstore.io/package/DestroyedClone/HudNumbahs/) | [1.0.0](https://thunderstore.io/package/DestroyedClone/HudNumbahs/1.0.0) | [1.0.0](https://thunderstore.io/package/DestroyedClone/HudNumbahs/1.0.0) |
-| [lemonlust-JinxMod](https://thunderstore.io/package/lemonlust/JinxMod/) | [1.0.6](https://thunderstore.io/package/lemonlust/JinxMod/1.0.6) |
+| [lemonlust-JinxMod](https://thunderstore.io/package/lemonlust/JinxMod/) | [1.0.7](https://thunderstore.io/package/lemonlust/JinxMod/1.0.7) |
 | [Moonlol-UnofficialRiskOfRuina](https://thunderstore.io/package/Moonlol/UnofficialRiskOfRuina/) | [1.0.5](https://thunderstore.io/package/Moonlol/UnofficialRiskOfRuina/1.0.5) |
 | [Team_Pepega-Aatrox](https://thunderstore.io/package/Team_Pepega/Aatrox/) | [4.3.4](https://thunderstore.io/package/Team_Pepega/Aatrox/4.3.4) |
 | [LiamonoVFTA-HolomancerMod](https://thunderstore.io/package/LiamonoVFTA/HolomancerMod/) | [0.1.1](https://thunderstore.io/package/LiamonoVFTA/HolomancerMod/0.1.1) |
@@ -217,15 +219,20 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [Zenithrium-VanillaVoid](https://thunderstore.io/package/Zenithrium/VanillaVoid/) | [1.0.0](https://thunderstore.io/package/Zenithrium/VanillaVoid/1.0.0) | [1.0.0](https://thunderstore.io/package/Zenithrium/VanillaVoid/1.0.0) |
 | [JavAngle-Myst](https://thunderstore.io/package/JavAngle/Myst/) | [0.5.0](https://thunderstore.io/package/JavAngle/Myst/0.5.0) |
 | [amogus_lovers-StandaloneAncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/) | [1.1.0](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/1.1.0) |
+| [Rune580-StopStealingMyMouse](https://thunderstore.io/package/Rune580/StopStealingMyMouse/) | [1.2.0](https://thunderstore.io/package/Rune580/StopStealingMyMouse/1.2.0) | [1.2.0](https://thunderstore.io/package/Rune580/StopStealingMyMouse/1.2.0) | [1.2.0](https://thunderstore.io/package/Rune580/StopStealingMyMouse/1.2.0) |
+| [PlasmaCore3-Forgotten_Relics](https://thunderstore.io/package/PlasmaCore3/Forgotten_Relics/) | [1.1.5](https://thunderstore.io/package/PlasmaCore3/Forgotten_Relics/1.1.5) | [1.1.5](https://thunderstore.io/package/PlasmaCore3/Forgotten_Relics/1.1.5) |
 
 </details>
 
-*Thanks to all authors of these mods for your work <3*
+*Thanks to all authors of these mods for their work <3*
 
 ## Installation
 
 Modpacks release as `.r2z` files, a filetype used by [r2modman](https://github.com/ebkr/r2modmanPlus) for sharing profiles. See [this page](https://github.com/ebkr/r2modmanPlus/wiki/Profiles#importing-a-profile) for more info on how to import them (it's super easy). Modpacks are distributed this way, because these files support custom configuration (on which these modpacks heavily depend on). I might release them on [Thunderstore](https://thunderstore.io/?section=modpacks) later, but importing the `.r2z` file will always be the recommended installation.
 
+I don't recommend updating/enabling the mods by yourself, as the installed versions have been tested and updating them might break some stuff or add new content which might be unbalanced. All modpacks have been tested for game version 1.2.3.1.
+
 ## Contact
 
 * Discord: MightyWolf_#2906
+* I don't use issues for this as I find it too time-consuming for such small project, but feel free to create one if you bump into something or want to suggest a mod/config change.
