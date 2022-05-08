@@ -84,7 +84,6 @@ Each modpack has a very distinct feel and impact on the game (they differ in mod
 | [EnforcerGang-SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/) | [1.0.13](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.13) | [1.0.13](https://thunderstore.io/package/EnforcerGang/SniperClassic/1.0.13) |
 | [TheTimesweeper-SurvivorSortOrder](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/) | [0.1.2](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/0.1.2) | [0.1.2](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/0.1.2) |
 | [kking117-WarBannerBuff](https://thunderstore.io/package/kking117/WarBannerBuff/) | [5.0.2](https://thunderstore.io/package/kking117/WarBannerBuff/5.0.2) | [5.0.2](https://thunderstore.io/package/kking117/WarBannerBuff/5.0.2) |
-| [William758-ZetArtifacts](https://thunderstore.io/package/William758/ZetArtifacts/) | [1.3.4](https://thunderstore.io/package/William758/ZetArtifacts/1.3.4) | [1.3.4](https://thunderstore.io/package/William758/ZetArtifacts/1.3.4) |
 | [Dragonyck-Auriel](https://thunderstore.io/package/Dragonyck/Auriel/) | [1.5.0](https://thunderstore.io/package/Dragonyck/Auriel/1.5.0) |
 | [DrBibop-VRAPI](https://thunderstore.io/package/DrBibop/VRAPI/) | [1.0.1](https://thunderstore.io/package/DrBibop/VRAPI/1.0.1) |
 | [dgosling-dgoslings_Samus_Mod](https://thunderstore.io/package/dgosling/dgoslings_Samus_Mod/) | [2.1.9](https://thunderstore.io/package/dgosling/dgoslings_Samus_Mod/2.1.9) |
